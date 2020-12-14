@@ -1,0 +1,26 @@
+Montag/Dienstag:
+- Sprach Features -> C# Versionen 7.0 - 9.0
+
+Mittwoch/Donnerstag
+Solid / Gernics
+
+Freitag: 
+Thread/Task-Library
+
+
+Montag: 
+- Event Handling 
+- Reflections
+
+
+Optionale Themen:
+- Serialzierung
+- PlugInPattern (drüberschauen) 
+- ? 
+
+
+Link Collection:
+https://www.microsoft.com/de-de/techwiese/news/show.aspx?id=msdn_de_78611
+
+https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
+ 
