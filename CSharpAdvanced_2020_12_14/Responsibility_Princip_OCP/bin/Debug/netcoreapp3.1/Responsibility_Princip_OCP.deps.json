@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Responsibility_Princip_OCP/1.0.0": {
+        "runtime": {
+          "Responsibility_Princip_OCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Responsibility_Princip_OCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

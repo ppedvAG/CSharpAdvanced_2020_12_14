@@ -1,11 +1,11 @@
 Montag/Dienstag:
 - Sprach Features -> C# Versionen 7.0 - 9.0
 
-Mittwoch/Donnerstag
-Solid / Gernics
+Mittwoch
+Solid / Gernics + PlugInPattern (drüberschauen) 
 
-Freitag: 
-Thread/Task-Library
+Donnerstag (13:30 oder etwas später)/ Freitag: 
+Gernics Übung Thread/Task-Library
 
 
 Montag: 
@@ -15,12 +15,23 @@ Montag:
 
 Optionale Themen:
 - Serialzierung
-- PlugInPattern (drüberschauen) 
-- ? 
+- Linq / Lambda
+
 
 
 Link Collection:
 https://www.microsoft.com/de-de/techwiese/news/show.aspx?id=msdn_de_78611
 
 https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
+
+
+C# 7.3 (stackalloc) 
+https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/operators/stackalloc
+
+
+
+Authoren:
+- Julia Lernman (Fachgebiet Backend) -> https://thedatafarm.com/ + Twitter
+
  
+Microsoft .NET Framework Quelltext 4.8 
