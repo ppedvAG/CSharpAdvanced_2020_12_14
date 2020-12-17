@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\bin\Release\netcoreapp3.1\MonitorSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\bin\Release\netcoreapp3.1\MonitorSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\bin\Release\netcoreapp3.1\MonitorSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\bin\Release\netcoreapp3.1\MonitorSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\bin\Release\netcoreapp3.1\MonitorSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\bin\Release\netcoreapp3.1\MonitorSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\obj\Release\netcoreapp3.1\MonitorSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\obj\Release\netcoreapp3.1\MonitorSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\obj\Release\netcoreapp3.1\MonitorSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\obj\Release\netcoreapp3.1\MonitorSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\obj\Release\netcoreapp3.1\MonitorSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\MonitorSample\obj\Release\netcoreapp3.1\MonitorSample.genruntimeconfig.cache

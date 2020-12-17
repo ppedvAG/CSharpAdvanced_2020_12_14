@@ -1,0 +1,3 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\GenericsWithConstraintsSample\obj\Release\netcoreapp3.1\GenericsWithConstraintsSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\GenericsWithConstraintsSample\obj\Release\netcoreapp3.1\GenericsWithConstraintsSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\GenericsWithConstraintsSample\obj\Release\netcoreapp3.1\GenericsWithConstraintsSample.csproj.CoreCompileInputs.cache

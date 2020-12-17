@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\bin\Release\netcoreapp3.1\ThreadPool.exe
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\bin\Release\netcoreapp3.1\ThreadPool.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\bin\Release\netcoreapp3.1\ThreadPool.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\bin\Release\netcoreapp3.1\ThreadPool.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\bin\Release\netcoreapp3.1\ThreadPool.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\bin\Release\netcoreapp3.1\ThreadPool.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\obj\Release\netcoreapp3.1\ThreadPool.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\obj\Release\netcoreapp3.1\ThreadPool.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\obj\Release\netcoreapp3.1\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\obj\Release\netcoreapp3.1\ThreadPool.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\obj\Release\netcoreapp3.1\ThreadPool.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ThreadPool\obj\Release\netcoreapp3.1\ThreadPool.genruntimeconfig.cache

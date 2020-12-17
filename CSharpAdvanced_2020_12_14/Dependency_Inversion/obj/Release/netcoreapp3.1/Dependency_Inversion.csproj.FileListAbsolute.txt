@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\bin\Release\netcoreapp3.1\Dependency_Inversion.exe
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\bin\Release\netcoreapp3.1\Dependency_Inversion.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\bin\Release\netcoreapp3.1\Dependency_Inversion.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\bin\Release\netcoreapp3.1\Dependency_Inversion.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\bin\Release\netcoreapp3.1\Dependency_Inversion.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\bin\Release\netcoreapp3.1\Dependency_Inversion.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\obj\Release\netcoreapp3.1\Dependency_Inversion.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\obj\Release\netcoreapp3.1\Dependency_Inversion.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\obj\Release\netcoreapp3.1\Dependency_Inversion.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\obj\Release\netcoreapp3.1\Dependency_Inversion.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\obj\Release\netcoreapp3.1\Dependency_Inversion.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Dependency_Inversion\obj\Release\netcoreapp3.1\Dependency_Inversion.genruntimeconfig.cache

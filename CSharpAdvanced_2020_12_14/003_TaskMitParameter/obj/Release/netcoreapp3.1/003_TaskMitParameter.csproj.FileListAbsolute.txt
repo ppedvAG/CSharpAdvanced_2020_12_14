@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\bin\Release\netcoreapp3.1\003_TaskMitParameter.exe
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\bin\Release\netcoreapp3.1\003_TaskMitParameter.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\bin\Release\netcoreapp3.1\003_TaskMitParameter.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\bin\Release\netcoreapp3.1\003_TaskMitParameter.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\bin\Release\netcoreapp3.1\003_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\bin\Release\netcoreapp3.1\003_TaskMitParameter.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\obj\Release\netcoreapp3.1\003_TaskMitParameter.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\obj\Release\netcoreapp3.1\003_TaskMitParameter.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\obj\Release\netcoreapp3.1\003_TaskMitParameter.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\obj\Release\netcoreapp3.1\003_TaskMitParameter.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\obj\Release\netcoreapp3.1\003_TaskMitParameter.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\003_TaskMitParameter\obj\Release\netcoreapp3.1\003_TaskMitParameter.genruntimeconfig.cache

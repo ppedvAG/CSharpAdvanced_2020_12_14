@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\bin\Release\netcoreapp3.1\001_EinfachTask.exe
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\bin\Release\netcoreapp3.1\001_EinfachTask.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\bin\Release\netcoreapp3.1\001_EinfachTask.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\bin\Release\netcoreapp3.1\001_EinfachTask.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\bin\Release\netcoreapp3.1\001_EinfachTask.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\bin\Release\netcoreapp3.1\001_EinfachTask.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\obj\Release\netcoreapp3.1\001_EinfachTask.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\obj\Release\netcoreapp3.1\001_EinfachTask.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\obj\Release\netcoreapp3.1\001_EinfachTask.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\obj\Release\netcoreapp3.1\001_EinfachTask.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\obj\Release\netcoreapp3.1\001_EinfachTask.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001_EinfachTask\obj\Release\netcoreapp3.1\001_EinfachTask.genruntimeconfig.cache

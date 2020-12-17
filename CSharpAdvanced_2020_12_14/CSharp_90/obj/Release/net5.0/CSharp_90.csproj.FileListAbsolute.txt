@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\bin\Release\net5.0\CSharp_90.exe
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\bin\Release\net5.0\CSharp_90.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\bin\Release\net5.0\CSharp_90.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\bin\Release\net5.0\CSharp_90.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\bin\Release\net5.0\CSharp_90.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\bin\Release\net5.0\ref\CSharp_90.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\bin\Release\net5.0\CSharp_90.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\obj\Release\net5.0\CSharp_90.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\obj\Release\net5.0\CSharp_90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\obj\Release\net5.0\CSharp_90.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\obj\Release\net5.0\CSharp_90.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\obj\Release\net5.0\CSharp_90.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\obj\Release\net5.0\CSharp_90.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\obj\Release\net5.0\ref\CSharp_90.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\obj\Release\net5.0\CSharp_90.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_90\obj\Release\net5.0\CSharp_90.genruntimeconfig.cache

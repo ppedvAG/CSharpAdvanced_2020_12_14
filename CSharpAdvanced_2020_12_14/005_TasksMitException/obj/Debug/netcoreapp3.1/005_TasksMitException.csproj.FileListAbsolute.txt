@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\bin\Debug\netcoreapp3.1\005_TasksMitException.exe
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\bin\Debug\netcoreapp3.1\005_TasksMitException.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\bin\Debug\netcoreapp3.1\005_TasksMitException.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\bin\Debug\netcoreapp3.1\005_TasksMitException.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\bin\Debug\netcoreapp3.1\005_TasksMitException.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\bin\Debug\netcoreapp3.1\005_TasksMitException.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\obj\Debug\netcoreapp3.1\005_TasksMitException.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\obj\Debug\netcoreapp3.1\005_TasksMitException.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\obj\Debug\netcoreapp3.1\005_TasksMitException.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\obj\Debug\netcoreapp3.1\005_TasksMitException.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\obj\Debug\netcoreapp3.1\005_TasksMitException.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\005_TasksMitException\obj\Debug\netcoreapp3.1\005_TasksMitException.genruntimeconfig.cache

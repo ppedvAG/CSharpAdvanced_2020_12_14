@@ -1,0 +1,3 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_70\obj\Release\netcoreapp3.1\CSharp_70.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_70\obj\Release\netcoreapp3.1\CSharp_70.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\CSharp_70\obj\Release\netcoreapp3.1\CSharp_70.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Responsibility_Princip_OCP\obj\Release\netcoreapp3.1\Responsibility_Princip_OCP.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Responsibility_Princip_OCP\obj\Release\netcoreapp3.1\Responsibility_Princip_OCP.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Responsibility_Princip_OCP\obj\Release\netcoreapp3.1\Responsibility_Princip_OCP.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\Responsibility_Princip_OCP\obj\Release\netcoreapp3.1\Responsibility_Princip_OCP.csproj.CoreCompileInputs.cache
