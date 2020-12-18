@@ -7,6 +7,9 @@ namespace ThreadPoolSample
     {
         static void Main(string[] args)
         {
+            ThreadPool.SetMinThreads(1, 1);
+            ThreadPool.SetMaxThreads(5, 5);
+            
             ThreadPool.QueueUserWorkItem(Methode1); //Erstelle einen Thread und führe Thread.Start aus
             ThreadPool.QueueUserWorkItem(Methode2);
             ThreadPool.QueueUserWorkItem(Methode3);

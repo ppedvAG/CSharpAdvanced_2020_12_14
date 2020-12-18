@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\bin\Release\netcoreapp3.1\001a_ParallelSamples.exe
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\bin\Release\netcoreapp3.1\001a_ParallelSamples.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\bin\Release\netcoreapp3.1\001a_ParallelSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\bin\Release\netcoreapp3.1\001a_ParallelSamples.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\bin\Release\netcoreapp3.1\001a_ParallelSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\bin\Release\netcoreapp3.1\001a_ParallelSamples.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\obj\Release\netcoreapp3.1\001a_ParallelSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\obj\Release\netcoreapp3.1\001a_ParallelSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\obj\Release\netcoreapp3.1\001a_ParallelSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\obj\Release\netcoreapp3.1\001a_ParallelSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\obj\Release\netcoreapp3.1\001a_ParallelSamples.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\001a_ParallelSamples\obj\Release\netcoreapp3.1\001a_ParallelSamples.genruntimeconfig.cache

@@ -28,7 +28,11 @@ https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/classes-and-str
 C# 7.3 (stackalloc) 
 https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/operators/stackalloc
 
+Threads:
 
+Vorder- und Hintergrundthreads -> https://docs.microsoft.com/de-de/dotnet/standard/threading/foreground-and-background-threads
+
+Beispiele ConcurrentDictionary -> http://dotnetpattern.com/csharp-concurrentdictionary
 
 Authoren:
 - Julia Lernman (Fachgebiet Backend) -> https://thedatafarm.com/ + Twitter

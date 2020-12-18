@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DelegateEvent_And_EventHandler/1.0.0": {
+        "runtime": {
+          "DelegateEvent_And_EventHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegateEvent_And_EventHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

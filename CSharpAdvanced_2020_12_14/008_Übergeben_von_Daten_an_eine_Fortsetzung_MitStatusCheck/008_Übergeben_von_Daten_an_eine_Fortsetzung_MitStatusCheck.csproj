@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_008_Übergeben_von_Daten_an_eine_Fortsetzung_MitStatusCheck</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "008_Übergeben_von_Daten_an_eine_Fortsetzung_MitStatusCheck/1.0.0": {
+        "runtime": {
+          "008_Übergeben_von_Daten_an_eine_Fortsetzung_MitStatusCheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "008_Übergeben_von_Daten_an_eine_Fortsetzung_MitStatusCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
