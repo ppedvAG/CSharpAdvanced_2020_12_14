@@ -80,9 +80,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SemaphoreSample3", "Semapho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TPL_mit_ConcurrentDictionary", "TPL_mit_ConcurrentDictionary\TPL_mit_ConcurrentDictionary.csproj", "{F0A65B1B-4D96-4CEB-B198-4A7EFC3F0D06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001a_ParallelSamples", "001a_ParallelSamples\001a_ParallelSamples.csproj", "{F14F04E4-1856-4516-9257-80E65324C9A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001a_ParallelSamples", "001a_ParallelSamples\001a_ParallelSamples.csproj", "{F14F04E4-1856-4516-9257-80E65324C9A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Task_ContinueWithSample", "006_Task_ContinueWithSample\006_Task_ContinueWithSample.csproj", "{2695B655-98C4-42E4-83EC-4BA093607D0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Task_ContinueWithSample", "006_Task_ContinueWithSample\006_Task_ContinueWithSample.csproj", "{2695B655-98C4-42E4-83EC-4BA093607D0D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reference Beispiele", "Reference Beispiele", "{2BF6DF70-6183-44B1-8359-372B9E5E88B0}"
 EndProject
@@ -110,11 +110,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013_Behandeln_von_durch_For
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delagets_Events", "Delagets_Events", "{20A8F639-96D9-471C-90C3-3BC7B943F962}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates_Events", "Delegates_Events\Delegates_Events.csproj", "{1E8A8D59-E05B-4D14-A752-A583FC0A0715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates_Events", "Delegates_Events\Delegates_Events.csproj", "{1E8A8D59-E05B-4D14-A752-A583FC0A0715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_MitCallback", "Delegate_MitCallback\Delegate_MitCallback.csproj", "{94E8C301-21C2-4022-B701-35CA294C6BAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate_MitCallback", "Delegate_MitCallback\Delegate_MitCallback.csproj", "{94E8C301-21C2-4022-B701-35CA294C6BAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateEvent_And_EventHandler", "DelegateEvent_And_EventHandler\DelegateEvent_And_EventHandler.csproj", "{9919F6C9-E29F-4278-AAA7-A86F22514BC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateEvent_And_EventHandler", "DelegateEvent_And_EventHandler\DelegateEvent_And_EventHandler.csproj", "{9919F6C9-E29F-4278-AAA7-A86F22514BC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Übungen", "Übungen", "{8928AD54-8EF5-4C9F-85E8-1D9E7C7EEC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Lab", "Generic_Lab\Generic_Lab.csproj", "{C7FF32D7-B59D-488A-9507-F27D2CDCF3ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPL1_Lab", "TPL1_Lab\TPL1_Lab.csproj", "{CDDB22B6-BD3D-44BB-8FA1-A06AE79489A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPL2_Lab", "TPL2_Lab\TPL2_Lab.csproj", "{ADF118F6-CE59-4CE5-BA5A-CDD859372B22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -310,6 +318,18 @@ Global
 		{9919F6C9-E29F-4278-AAA7-A86F22514BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9919F6C9-E29F-4278-AAA7-A86F22514BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9919F6C9-E29F-4278-AAA7-A86F22514BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7FF32D7-B59D-488A-9507-F27D2CDCF3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FF32D7-B59D-488A-9507-F27D2CDCF3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FF32D7-B59D-488A-9507-F27D2CDCF3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FF32D7-B59D-488A-9507-F27D2CDCF3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDB22B6-BD3D-44BB-8FA1-A06AE79489A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDB22B6-BD3D-44BB-8FA1-A06AE79489A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDB22B6-BD3D-44BB-8FA1-A06AE79489A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDB22B6-BD3D-44BB-8FA1-A06AE79489A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF118F6-CE59-4CE5-BA5A-CDD859372B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF118F6-CE59-4CE5-BA5A-CDD859372B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF118F6-CE59-4CE5-BA5A-CDD859372B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF118F6-CE59-4CE5-BA5A-CDD859372B22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -363,6 +383,9 @@ Global
 		{1E8A8D59-E05B-4D14-A752-A583FC0A0715} = {20A8F639-96D9-471C-90C3-3BC7B943F962}
 		{94E8C301-21C2-4022-B701-35CA294C6BAC} = {20A8F639-96D9-471C-90C3-3BC7B943F962}
 		{9919F6C9-E29F-4278-AAA7-A86F22514BC2} = {20A8F639-96D9-471C-90C3-3BC7B943F962}
+		{C7FF32D7-B59D-488A-9507-F27D2CDCF3ED} = {8928AD54-8EF5-4C9F-85E8-1D9E7C7EEC9C}
+		{CDDB22B6-BD3D-44BB-8FA1-A06AE79489A6} = {8928AD54-8EF5-4C9F-85E8-1D9E7C7EEC9C}
+		{ADF118F6-CE59-4CE5-BA5A-CDD859372B22} = {8928AD54-8EF5-4C9F-85E8-1D9E7C7EEC9C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E018147-8B5C-49CE-9FE0-965DD5F3BB06}
