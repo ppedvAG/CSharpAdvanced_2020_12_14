@@ -1,0 +1,4 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib.Console\obj\Debug\netcoreapp3.1\ErweitungsmethodenLib.Console.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib.Console\obj\Debug\netcoreapp3.1\ErweitungsmethodenLib.Console.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib.Console\obj\Debug\netcoreapp3.1\ErweitungsmethodenLib.Console.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib.Console\obj\Debug\netcoreapp3.1\ErweitungsmethodenLib.Console.csproj.CoreCompileInputs.cache

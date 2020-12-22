@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace TPL2_Lab
 {
@@ -7,6 +8,14 @@ namespace TPL2_Lab
     {
         static void Main(string[] args)
         {
+            Task<List<long>> task1 = Task.Run(() => GetPrimeNumbers(2500));
+
+            task1.ContinueWith(
+            primeNumbers =>
+            {
+                for(int i = 0; i < primeNumbers.Result.Count)
+            }, TaskContinuationOptions.OnlyOnRanToCompletion);
+
             /* In dieser Übung soll eine Ermittlung von Primzahlen mit TPL unterstützt werden
              * Im ersten Task soll die Ermittlung der Primzahlen (GetPrimeNumbers) statt finden.
              * 

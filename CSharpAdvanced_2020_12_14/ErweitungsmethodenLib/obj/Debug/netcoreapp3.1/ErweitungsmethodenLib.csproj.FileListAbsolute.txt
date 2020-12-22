@@ -1,0 +1,9 @@
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib\bin\Debug\netcoreapp3.1\ErweitungsmethodenLib.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib\bin\Debug\netcoreapp3.1\ErweitungsmethodenLib.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib\bin\Debug\netcoreapp3.1\ErweitungsmethodenLib.pdb
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib\obj\Debug\netcoreapp3.1\ErweitungsmethodenLib.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib\obj\Debug\netcoreapp3.1\ErweitungsmethodenLib.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib\obj\Debug\netcoreapp3.1\ErweitungsmethodenLib.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib\obj\Debug\netcoreapp3.1\ErweitungsmethodenLib.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib\obj\Debug\netcoreapp3.1\ErweitungsmethodenLib.dll
+C:\Aktueller Kurs\CSharpAdvanced_2020_12_14\CSharpAdvanced_2020_12_14\ErweitungsmethodenLib\obj\Debug\netcoreapp3.1\ErweitungsmethodenLib.pdb
